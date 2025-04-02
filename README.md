@@ -13,6 +13,7 @@ This Project is a simple demo project for monitoring and displaying temperature 
 - some cables
 - a Breadboard
 - a 10k Ohm Resistor (There is a version of the DHT11 sensor that doesn't need a resistor)
+-  http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ## Dependencies:
 - DHT Sensor Library
